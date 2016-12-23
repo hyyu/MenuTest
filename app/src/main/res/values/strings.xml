@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">More Fragments</string>
+
+    <string name="drawer_opened">Opened</string>
+    <string name="drawer_closed">Closed</string>
+
+    <string name="fragment1">This is fragment 1</string>
+    <string name="fragment2">This is fragment 2</string>
+    <string name="fragment3">This is fragment 3</string>
+
+    <string name="title_fragment1">Menu Item 1</string>
+    <string name="title_fragment2">Menu Item 2</string>
+    <string name="title_fragment3">Menu Item 3</string>
+
+</resources>
